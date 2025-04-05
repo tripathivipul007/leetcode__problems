@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tripathivipul007/leetcode__problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
