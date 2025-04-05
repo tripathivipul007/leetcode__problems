@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
