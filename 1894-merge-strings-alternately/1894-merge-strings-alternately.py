@@ -1,14 +1,15 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        merged = []
+        merged = ''
+        len1, len2 = len(word1), len(word2)
+        i=0
+        while i< len1 and i<len2:
+            merged+= word1[i]+word2[i]
+            i+=1
+            if i==len1:
+                merged+=word2[i:]
+            elif i==len2:
+                merged+=word1[i:]
 
-        # Merge characters alternately
-        for c1, c2 in zip(word1, word2):
-            merged.append(c1)
-            merged.append(c2)
-
-        # Add the remaining part of the longer word
-        merged.append(word1[len(word2):])
-        merged.append(word2[len(word1):])
-
-        return ''.join(merged)
+        return merged
+        
