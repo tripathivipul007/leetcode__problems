@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tripathivipul007/leetcode__problems/tree/master/0043-multiply-strings) |
 | [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/tripathivipul007/leetcode__problems/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/tripathivipul007/leetcode__problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
