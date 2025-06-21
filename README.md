@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tripathivipul007/leetcode__problems/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/tripathivipul007/leetcode__problems/tree/master/0043-multiply-strings) |
 | [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -46,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tripathivipul007/leetcode__problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/tripathivipul007/leetcode__problems/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tripathivipul007/leetcode__problems/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/tripathivipul007/leetcode__problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
