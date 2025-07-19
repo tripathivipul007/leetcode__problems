@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/tripathivipul007/leetcode__problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/tripathivipul007/leetcode__problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
 |  |
