@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tripathivipul007/leetcode__problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 | [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/tripathivipul007/leetcode__problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tripathivipul007/leetcode__problems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tripathivipul007/leetcode__problems/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -59,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tripathivipul007/leetcode__problems/tree/master/0010-regular-expression-matching) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
