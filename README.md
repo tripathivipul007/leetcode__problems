@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tripathivipul007/leetcode__problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 | [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tripathivipul007/leetcode__problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/tripathivipul007/leetcode__problems/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/tripathivipul007/leetcode__problems/tree/master/0135-candy) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/tripathivipul007/leetcode__problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
