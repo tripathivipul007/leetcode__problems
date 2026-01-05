@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tripathivipul007/leetcode__problems/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/tripathivipul007/leetcode__problems/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/tripathivipul007/leetcode__problems/tree/master/0068-text-justification) |
 | [1894-merge-strings-alternately](https://github.com/tripathivipul007/leetcode__problems/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tripathivipul007/leetcode__problems/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/tripathivipul007/leetcode__problems/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/tripathivipul007/leetcode__problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/tripathivipul007/leetcode__problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/tripathivipul007/leetcode__problems/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/tripathivipul007/leetcode__problems/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
